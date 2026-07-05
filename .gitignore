@@ -1,0 +1,5 @@
+data/online_retail.xlsx
+data/online_retail.csv
+data/online_retail.db
+__pycache__/
+*.pyc
